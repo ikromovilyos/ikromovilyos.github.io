@@ -1,0 +1,23 @@
+body{
+    background-color: olivedrab;
+    
+}
+.text{
+    color:black;
+    margin: 40px;
+    padding: 0;
+    border: 5px solid yellowgreen; 
+    text-align: center;
+}
+.text1:hover{
+    color: white;
+    background-color: aqua;
+    border:3px solid black;
+}
+.text1{
+    color: bisque;
+    text-decoration: none;
+    background-color: black;
+    padding: 20px;
+    border-radius: 50px;
+}
